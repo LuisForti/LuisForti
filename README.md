@@ -1,4 +1,4 @@
-#Salve, sou o Luís.
+Salve, sou o Luís.
 
 ![Luís' GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisForti&show_icons=true&theme=dracula&custom_title=Luís'%20Github%20Stats&hide_rank=true&line_height=24)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisForti&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
